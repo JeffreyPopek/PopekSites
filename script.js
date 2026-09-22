@@ -1,5 +1,5 @@
 // Replace this placeholder with your public Google Form URL.
-// Both quote buttons use this one setting; email is the fallback until configured.
+// All quote buttons use this one setting; email is the fallback until configured.
 const GOOGLE_FORM_URL = 'GOOGLE_FORM_URL';
 
 if (GOOGLE_FORM_URL !== 'GOOGLE_FORM_URL') {
